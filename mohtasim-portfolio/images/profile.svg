@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+<title id="title">Minimal profile illustration</title>
+<rect width="400" height="400" rx="28" fill="#171717"/>
+<circle cx="200" cy="145" r="75" fill="#777777"/>
+<path d="M70 370c10-92 59-139 130-139s120 47 130 139" fill="#555555"/>
+<circle cx="200" cy="145" r="48" fill="#bdbdbd"/>
+<path d="M150 133c7-40 90-57 103 2-19-12-32-17-51-17-17 0-35 7-52 15z" fill="#333333"/>
+<text x="200" y="340" text-anchor="middle" fill="#eeeeee" font-family="Arial" font-size="22" letter-spacing="4">MOHTASIM</text>
+</svg>

@@ -11,5 +11,5 @@ A simple four-page personal portfolio made with HTML5 and CSS3 for CSC 337.
 ## Run locally
 Open `index.html` in a web browser.
 
-## Before submitting
-Replace the sample email, phone number, friend names and student IDs in `contact.html` with your own correct details. Check that the YouTube videos and map load, then validate all four HTML pages and `css/style.css`.
+## Live  link
+https://mohtasim4458.github.io/Portfolio-/index.html
